@@ -1,0 +1,22 @@
+[
+  { "name": "Ali", "friends": ["Hossein", "Zahra"] },
+  { "name": "Zahra", "friends": ["Ali", "Fatemeh", "Saeed"] },
+  { "name": "Hossein", "friends": ["Ali", "Nazanin"] },
+  { "name": "Reza", "friends": ["Samira","Kamran"] },
+  { "name": "Fatemeh", "friends": ["Zahra", "Sara", "Saeed"] },
+  { "name": "Saeed", "friends": ["Fatemeh", "Zahra", "Parisa"] },
+  { "name": "Mahdi", "friends": ["Amir", "Neda"] },
+  { "name": "Samira", "friends": ["Reza", "Parisa", "Nazanin"] },
+  { "name": "Amir", "friends": ["Mahdi", "Neda"] },
+  { "name": "Parisa", "friends": ["Saeed", "Samira", "Sara"] },
+  { "name": "Sara", "friends": ["Fatemeh", "Parisa", "Arman"] },
+  { "name": "Nazanin", "friends": ["Samira", "Hossein", "Nima"] },
+  { "name": "Neda", "friends": ["Mahdi", "Amir"] },
+  { "name": "Nima", "friends": ["Nazanin", "Arman", "Farzad"] },
+  { "name": "Arman", "friends": ["Sara", "Nima", "Mona"] },
+  { "name": "Azadeh", "friends": ["Mona", "Elham"] },
+  { "name": "Farzad", "friends": ["Nima", "Mona", "Elham"] },
+  { "name": "Mona", "friends": ["Arman", "Farzad", "Azadeh","Kamran"] },
+  { "name": "Elham", "friends": ["Azadeh", "Farzad", "Kamran"] },
+  { "name": "Kamran", "friends": ["Elham", "Mona", "Reza"] }
+]

@@ -34,7 +34,7 @@ for i in range(len(adjoint_matrix)):
             G.add_edge(names[i], names[j])
 
 plt.figure(figsize=(14,10))
-pos = nx.spring_layout(G, seed=42,k=0.5)  
+pos = nx.spring_layout(G, seed=20,k=0.5)  
 
 nx.draw_networkx_nodes(G, pos, node_color='skyblue', node_size=2000)
 nx.draw_networkx_edges(G, pos, edge_color='gray')

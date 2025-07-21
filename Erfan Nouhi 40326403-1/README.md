@@ -26,6 +26,7 @@ My project is about friendship graph and it's different operations and concepts.
 - BFS_DFS algorithms
 - connected_components
 - centerality
+- Bellman_Ford algorithm
 - json file (friendship.json)
 
 ### report
@@ -39,7 +40,7 @@ In this part I try to test my implementations and put inputs and outputs togethe
 **I'll be thankful if you star my work wether you find it useful.**
 
 
-
+*I need to mention that i have learned a lot on W3schools.com to do this project. I think you will find it useful too.*
 
 
 

@@ -1,0 +1,96 @@
+in_out_deg("Ali") (input)
+    
+
+-> (output)
+name  Ali
+3
+name  Zahra
+3
+name  Hossein
+2
+name  Reza
+2
+name  Fatemeh
+3
+name  Saeed
+3
+name  Mahdi
+3
+name  Samira
+3
+name  Amir
+2
+name  Parisa
+3
+name  Sara
+3
+name  Nazanin
+3
+name  Neda
+2
+name  Nima
+3
+name  Arman
+3
+name  Azadeh
+2
+name  Farzad
+3
+name  Mona
+4
+name  Elham
+3
+name  Kamran
+3
+
+
+3 this graph is undirected
+
+----------------------------------
+in_out_deg("Hossein") (input)
+
+-> (output)
+    
+name  Ali
+3
+name  Zahra
+3
+name  Hossein
+2
+name  Reza
+2
+name  Fatemeh
+3
+name  Saeed
+3
+name  Mahdi
+3
+name  Samira
+3
+name  Amir
+2
+name  Parisa
+3
+name  Sara
+3
+name  Nazanin
+3
+name  Neda
+2
+name  Nima
+3
+name  Arman
+3
+name  Azadeh
+2
+name  Farzad
+3
+name  Mona
+4
+name  Elham
+3
+name  Kamran
+3
+
+
+2 this graph is undirected

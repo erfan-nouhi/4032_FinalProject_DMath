@@ -74,7 +74,3 @@ def DFS(visited,start_name):
             DFS(visited,names[i])
 
 
-#BFS("Ali")
-visit = [False for _ in range(len(names))]
-DFS(visit,"Ali")
-     

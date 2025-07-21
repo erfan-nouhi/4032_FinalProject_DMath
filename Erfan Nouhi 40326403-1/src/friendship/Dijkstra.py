@@ -50,7 +50,7 @@ def dijkstra(start_name):
 
     return distances
 
-for name,distance in zip(names,dijkstra("Ali")):
-    print(f"{name} distance from Ali is {distance}")
+for name,distance in zip(names,dijkstra("Neda")):
+    print(f"{name} distance from Neda is {distance}")
 
     

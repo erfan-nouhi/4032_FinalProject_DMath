@@ -1,0 +1,51 @@
+for name,distance in zip(names,dijkstra("Ali")):
+    print(f"{name} distance from Ali is {distance}") (input)
+
+->(output)
+Ali distance from Ali is 0
+Zahra distance from Ali is 1
+Hossein distance from Ali is 1
+Reza distance from Ali is 4
+Fatemeh distance from Ali is 2
+Saeed distance from Ali is 2
+Mahdi distance from Ali is 1
+Samira distance from Ali is 3
+Amir distance from Ali is 2
+Parisa distance from Ali is 3
+Sara distance from Ali is 3
+Nazanin distance from Ali is 2
+Neda distance from Ali is 2
+Nima distance from Ali is 3
+Arman distance from Ali is 4
+Azadeh distance from Ali is 6
+Farzad distance from Ali is 4
+Mona distance from Ali is 5
+Elham distance from Ali is 5
+Kamran distance from Ali is 5
+
+----------------------------------------
+
+for name,distance in zip(names,dijkstra("Neda")):
+    print(f"{name} distance from Neda is {distance}")  (input)
+
+->(output)
+Ali distance from Neda is 2
+Zahra distance from Neda is 3
+Hossein distance from Neda is 3
+Reza distance from Neda is 6
+Fatemeh distance from Neda is 4
+Saeed distance from Neda is 4
+Mahdi distance from Neda is 1
+Samira distance from Neda is 5
+Amir distance from Neda is 1
+Parisa distance from Neda is 5
+Sara distance from Neda is 5
+Nazanin distance from Neda is 4
+Neda distance from Neda is 0
+Nima distance from Neda is 5
+Arman distance from Neda is 6
+Azadeh distance from Neda is 8
+Farzad distance from Neda is 6
+Mona distance from Neda is 7
+Elham distance from Neda is 7
+Kamran distance from Neda is 7

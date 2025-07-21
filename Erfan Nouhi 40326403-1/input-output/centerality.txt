@@ -1,0 +1,22 @@
+Ali sum of distances from rest nodes is 58
+Zahra sum of distances from rest nodes is 59
+Hossein sum of distances from rest nodes is 55
+Reza sum of distances from rest nodes is 60
+Fatemeh sum of distances from rest nodes is 57
+Saeed sum of distances from rest nodes is 59
+Mahdi sum of distances from rest nodes is 72
+Samira sum of distances from rest nodes is 52
+Amir sum of distances from rest nodes is 89
+Parisa sum of distances from rest nodes is 54
+Sara sum of distances from rest nodes is 53
+Nazanin sum of distances from rest nodes is 50
+Neda sum of distances from rest nodes is 89
+Nima sum of distances from rest nodes is 53
+Arman sum of distances from rest nodes is 54
+Azadeh sum of distances from rest nodes is 77
+Farzad sum of distances from rest nodes is 62
+Mona sum of distances from rest nodes is 61
+Elham sum of distances from rest nodes is 71
+Kamran sum of distances from rest nodes is 65
+the graph centrality according to distace from others is 50
+central node is Nazanin

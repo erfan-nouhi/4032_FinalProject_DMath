@@ -26,10 +26,12 @@ for member in members:
     print("name ",member["name"])
     print(len(member['friends']))
     
+print("\n")
 
-"""
-for i in len(adjoint_matrix) :
-    print("name ",names[i])
-    print(sum(adjoint_matrix[i]))
+def in_out_deg(name):
+    name_index = names.index(name)
+
+    print(sum(adjoint_matrix[name_index]),"this graph is undirected")
+
+in_out_deg("Hossein")
     
-"""

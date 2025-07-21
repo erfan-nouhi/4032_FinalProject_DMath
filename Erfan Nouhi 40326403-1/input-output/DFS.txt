@@ -1,0 +1,50 @@
+visit = [False for _ in range(len(names))]
+DFS(visit,"Ali")  (input)
+
+-> (output)
+
+Ali  
+Zahra
+Fatemeh
+Saeed
+Parisa
+Samira
+Reza
+Kamran
+Mona
+Arman  
+Sara
+Nima
+Nazanin
+Hossein
+Farzad
+Elham
+Azadeh
+Mahdi
+Amir
+Neda  
+
+--------------------------------
+visit = [False for _ in range(len(names))]
+DFS(visit,"Reza")  (input)
+-> (output)
+Reza  
+Samira  
+Parisa
+Saeed  
+Zahra
+Ali
+Hossein
+Nazanin
+Nima  
+Arman
+Sara
+Fatemeh
+Mona
+Azadeh
+Elham
+Farzad
+Kamran
+Mahdi
+Amir
+Neda

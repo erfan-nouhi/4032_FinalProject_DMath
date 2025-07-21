@@ -1,0 +1,4 @@
+(output) ->
+
+[['Ali', 'Zahra', 'Fatemeh', 'Saeed', 'Parisa', 'Samira', 'Reza', 'Kamran', 'Mona', 'Arman', 
+'Sara', 'Nima', 'Nazanin', 'Hossein', 'Farzad', 'Elham', 'Azadeh', 'Mahdi', 'Amir', 'Neda']]

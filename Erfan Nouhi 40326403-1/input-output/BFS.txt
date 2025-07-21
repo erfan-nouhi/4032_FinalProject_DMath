@@ -1,0 +1,48 @@
+BFS("Ali") (input)
+
+-> (output)
+Ali  
+Zahra
+Hossein  
+Mahdi
+Fatemeh
+Saeed
+Nazanin
+Amir
+Neda
+Sara
+Parisa  
+Samira  
+Nima
+Arman  
+Reza
+Farzad
+Mona
+Kamran  
+Elham
+Azadeh
+-------------------------------------------
+BFS("Mahdi") (input)
+
+-> (output)
+Mahdi  
+Ali
+Amir  
+Neda  
+Zahra
+Hossein
+Fatemeh
+Saeed
+Nazanin
+Sara
+Parisa
+Samira
+Nima  
+Arman
+Reza
+Farzad
+Mona
+Kamran
+Elham
+Azadeh
+

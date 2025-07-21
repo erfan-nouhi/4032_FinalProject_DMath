@@ -1,11 +1,11 @@
 [
-  { "name": "Ali", "friends": ["Hossein", "Zahra"] },
+  { "name": "Ali", "friends": ["Hossein", "Zahra","Mahdi"] },
   { "name": "Zahra", "friends": ["Ali", "Fatemeh", "Saeed"] },
   { "name": "Hossein", "friends": ["Ali", "Nazanin"] },
   { "name": "Reza", "friends": ["Samira","Kamran"] },
   { "name": "Fatemeh", "friends": ["Zahra", "Sara", "Saeed"] },
   { "name": "Saeed", "friends": ["Fatemeh", "Zahra", "Parisa"] },
-  { "name": "Mahdi", "friends": ["Amir", "Neda"] },
+  { "name": "Mahdi", "friends": ["Amir", "Neda","Ali"] },
   { "name": "Samira", "friends": ["Reza", "Parisa", "Nazanin"] },
   { "name": "Amir", "friends": ["Mahdi", "Neda"] },
   { "name": "Parisa", "friends": ["Saeed", "Samira", "Sara"] },

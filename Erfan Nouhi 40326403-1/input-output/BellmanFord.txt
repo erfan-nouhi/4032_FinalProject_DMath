@@ -1,0 +1,25 @@
+for name,distance in zip(names,distances):
+    print(f"{name} distance from Ali is {distance}")
+
+    
+(output) ->
+Ali distance from Ali is 0
+Zahra distance from Ali is 1  
+Hossein distance from Ali is 1
+Reza distance from Ali is 4   
+Fatemeh distance from Ali is 2
+Saeed distance from Ali is 2
+Mahdi distance from Ali is 1
+Samira distance from Ali is 3
+Amir distance from Ali is 2
+Parisa distance from Ali is 3
+Sara distance from Ali is 3
+Nazanin distance from Ali is 2
+Neda distance from Ali is 2
+Nima distance from Ali is 3
+Arman distance from Ali is 4
+Azadeh distance from Ali is 6
+Farzad distance from Ali is 4
+Mona distance from Ali is 5
+Elham distance from Ali is 5
+Kamran distance from Ali is 5

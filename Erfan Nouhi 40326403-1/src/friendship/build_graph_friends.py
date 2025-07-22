@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import json
 import networkx as nx
 
-with open("C:\\Users\\0000\\OneDrive\\دسکتاپ\\git-hub work\\4032_FinalProject_DMath\\Erfan Nouhi 40326403-1\\src\\friendship\\friendship.json","r") as file:
+with open('c:\\Users\\MOJAN PC\\Desktop\\github\\4032_FinalProject_DMath\\Erfan Nouhi 40326403-1\\src\\friendship\\friendship.json',"r") as file:
     members = json.load(file)
 
 
